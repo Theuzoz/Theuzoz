@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm @Theuzoz and I'm a fullstack development student.<br><br>I’m looking to improve my skills as a programer<br><br>I'm excited to be part of the community<br>and participating in projects<br>-----------------------------------------------------<br>Olá, eu sou o @Theuzoz e sou estudante de desenvolvimento FullStack<br><br>Busco melhorar minhas habilidades como um programador<br><br>Estou ansioso para fazer parte da comunidade<br>e participar em projetos
+Hi, I'm @Theuzoz and I'm a fullstack development student.<br><br>I’m looking to improve my skills as a programer<br><br>I'm excited to be part of the community<br>and participate in projects<br>-----------------------------------------------------<br>Olá, eu sou o @Theuzoz e sou estudante de desenvolvimento FullStack<br><br>Busco melhorar minhas habilidades como um programador<br><br>Estou ansioso para fazer parte da comunidade<br>e participar em projetos
 
 
 ## 🌐 Socials:
